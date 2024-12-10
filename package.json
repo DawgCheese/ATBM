@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.1.5",
+    "@mui/material": "^6.1.5",
+    "@toolpad/core": "^0.8.1",
+    "antd": "^5.22.3",
+    "axios": "^1.7.9",
+    "emailjs-com": "^3.2.0",
+    "react-image": "^4.1.0"
+  }
+}
